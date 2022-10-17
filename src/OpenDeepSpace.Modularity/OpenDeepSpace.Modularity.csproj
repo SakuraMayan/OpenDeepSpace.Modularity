@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+	  <PackageId>OpenDeepSpace.Modularity</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>OpenDeepSpace</Authors>
+	  <Company>OpenDeepSpaceTech</Company>
+	  <Product>OpenDeepSpaceModularity</Product>
+	  <Description>netcore模块化 configure configureservices</Description>
+	  <Copyright>MIT</Copyright>
+	  <PackageProjectUrl>https://github.com/SakuraMayan/OpenDeepSpace.Modularity</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
