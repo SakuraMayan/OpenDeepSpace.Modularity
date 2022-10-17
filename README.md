@@ -1,1 +1,7 @@
 OpenDeepSpace.Modularity
+
+按照模块化的把Configure ConfigureServices进行依赖
+
+使用方式见Wiki
+
+Nuget上搜索 OpenDeepSpace.Modularity使用
